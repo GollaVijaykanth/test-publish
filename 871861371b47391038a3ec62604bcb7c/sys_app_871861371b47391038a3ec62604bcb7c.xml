@@ -32,16 +32,16 @@
         <sys_created_by>abraham.lincoln</sys_created_by>
         <sys_created_on>2023-12-18 10:36:59</sys_created_on>
         <sys_id>871861371b47391038a3ec62604bcb7c</sys_id>
-        <sys_mod_count>223</sys_mod_count>
+        <sys_mod_count>224</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-02-12 06:00:54</sys_updated_on>
+        <sys_updated_on>2024-02-12 11:01:46</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.3.42</version>
+        <version>1.3.43</version>
     </sys_app>
     <sys_translated_text action="delete_multiple" query="documentkey=871861371b47391038a3ec62604bcb7c"/>
 </record_update>
